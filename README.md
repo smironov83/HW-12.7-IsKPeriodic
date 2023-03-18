@@ -1,0 +1,1 @@
+# HW-12.7-IsKPeriodic
